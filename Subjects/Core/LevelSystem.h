@@ -9,6 +9,7 @@ private:
 
 	int level;
 	int xp;
+	int test;
 
 public:
 	
